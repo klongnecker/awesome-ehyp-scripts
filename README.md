@@ -1,6 +1,6 @@
 # awesome-ehyp-scripts
 
-This is a list of content places relating to fdoms ehyp content. For other lists of a similar nature have a look at:
+This is a list of content places relating to scripts for ehyp content. For other lists of a similar nature have a look at:
 * [awesome-ehyp](https://github.com/klongnecker/awesome-ehyp) - This awesome list, high level list
 
 To add content just attempt to edit and it will create a "pull request". Similar to a wiki but requires approval. Feel free to create your own lists and add it to the list above.
